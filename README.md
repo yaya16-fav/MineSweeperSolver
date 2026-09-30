@@ -1,26 +1,26 @@
 # Implementasi Knowledge-Based System untuk Menyelesaikan Permainan Minesweeper dengan Forward Chaining dan Constraint Propagation
-Solver Minesweeper 6×6 berbasis **Knowledge-Based System** (aturan logika + forward chaining, tanpa machine learning), lengkap dengan GUI yang menampilkan alasan setiap langkah AI.
+Solver Minesweeper 6×6 berbasis **Knowledge-Based System**, lengkap dengan GUI yang menampilkan penjelasan setiap langkah algoritma AI.
 
 Proyek Akhir Mata Kuliah Artificial Intelligence, DTETI Universitas Gadjah Mada.
 
-Tim: Nisa Faizatul Azkiya, Fadya Aviqa, Muhammad Arsya Gifary
+Anggota Tim: Nisa Faizatul Azkiya, Fadya Aviqa, Muhammad Arsya Gifary
 
 ## Ringkasan
-
-Game Minesweeper dimainkan oleh AI yang menalar dari angka petunjuk di papan. Setiap langkah AI (buka sel / pasang bendera) dicatat di jendela log beserta alasan logisnya, jadi rantai inferensinya bisa ditelusuri dan dijelaskan saat presentasi.
+_
+Game Minesweeper dimainkan oleh AI yang menalar dari angka petunjuk di papan. Setiap langkah AI (buka sel / pasang _flag_) dicatat di _pop-up log_ beserta alasan logisnya, sehingga rantai inferensinya bisa ditelusuri.
 
 ## Fitur
 
-- Game engine Minesweeper 6×6 dengan 6 bom, flood-fill otomatis, dan jaminan klik pertama aman (sel pertama dan semua tetangganya bebas bom).
+- Game engine Minesweeper 6×6 dengan 6 bom, flood-fill otomatis, dan  klik pertama dipastikan aman (sel pertama dan semua tetangganya bebas bom).
 - Mode main manual (klik kiri = buka, klik kanan = bendera).
 - Tombol **AI SOLVE** dengan dua mode:
   - **Manual**: AI jalan satu langkah setiap tombol "Langkah Berikutnya" ditekan.
   - **Otomatis**: AI jalan sendiri dengan jeda antar langkah, bisa di-pause.
-- Jendela log berisi alasan tiap langkah, misalnya sel angka mana yang memicu aturan.
+- _Pop-up log_ berisi alasan tiap langkah, misalnya sel angka mana yang memicu aturan.
 - Highlight sel: **hijau** = langkah pasti (hasil penalaran), **oranye** = tebakan.
 - Popup Game Over / Menang, tombol Main Lagi, dan background hutan-tambang yang digenerate prosedural dengan Pillow.
 
-## Formalisasi (Knowledge-Based System)
+## Knowledge-Based System
 
 **Knowledge base.** Fakta berasal dari papan yang sudah terlihat: sel terbuka berisi angka *n* berarti tepat *n* dari 8 tetangganya adalah bom. Untuk tiap sel bernomor dihitung:
 
