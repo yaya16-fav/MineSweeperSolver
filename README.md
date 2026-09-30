@@ -113,7 +113,3 @@ n.png)
 *Gambar 4b. Kondisi kalah saat AI membuka sel berbom, biasanya setelah harus menebak. Sel bom yang diinjak ditandai merah dan bom lainnya ditampilkan.*
 
 
-
-
-## Referensi dan Sitasi
-
