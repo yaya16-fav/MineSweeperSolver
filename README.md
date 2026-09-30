@@ -45,8 +45,8 @@ R3 membandingkan pasangan constraint antar-sel bernomor. Constraint baru hasil s
 
 ```
 minesweeper-kbs/
-├── minesweeper_ai.py    # Solver saja: KB + inferensi. Tanpa GUI dan tanpa game logic.
-├── minesweeper_gui.py   # Game engine + GUI Tkinter + integrasi AI + jendela log
+├── minesweeper_ai.py  
+├── minesweeper_gui.py   
 ├── requirements.txt
 └── README.md
 ```
