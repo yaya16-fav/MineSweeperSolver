@@ -96,19 +96,19 @@ Catatan: font yang dipakai adalah Segoe UI / Segoe UI Emoji (tampilan paling pas
 *Gambar 2. Jendela log yang mencatat setiap langkah AI beserta alasannya. Tiap baris menunjukkan nomor langkah, aksi (OPEN atau FLAG), koordinat sel, jenis aturan yang dipakai, dan sel bernomor yang memicu aturan tersebut. Mode Manual (tombol Langkah Berikutnya) dan Mode Otomatis bisa dipilih dari jendela ini.*
 
 ### 3. Langkah pasti dan tebakan
-<img width="502" height="152" alt="Screenshot 2026-09-30 172429" src="https://github.com/user-attachments/assets/aa44164b-94b6-4587-9d9b-5aa75357be4b" />
+<img width="300" alt="Screenshot 2026-09-30 172429" src="https://github.com/user-attachments/assets/aa44164b-94b6-4587-9d9b-5aa75357be4b" />
 n.png)
 
 *Gambar 3. Perbedaan dua jenis langkah AI. Sel dengan highlight **hijau** adalah langkah pasti hasil penalaran (aturan dasar atau subset method), sedangkan highlight **oranye** adalah tebakan yang dipakai saat tidak ada kesimpulan logis tersisa.*
 
 ### 4. Hasil akhir permainan
 
-<img width="546" height="731" alt="Screenshot 2026-09-30 172135" src="https://github.com/user-attachments/assets/f6edb668-503a-4029-8096-a2f74613cba0" />
+<img width="300" alt="Screenshot 2026-09-30 172135" src="https://github.com/user-attachments/assets/f6edb668-503a-4029-8096-a2f74613cba0" />
 
 
 *Gambar 4a. Popup kemenangan setelah semua sel aman berhasil dibuka oleh AI. Jumlah langkah yang dibutuhkan ditampilkan di label status.*
 
-<img width="543" height="727" alt="Screenshot 2026-09-30 172233" src="https://github.com/user-attachments/assets/d1c78632-ef0c-44d0-ae87-23b9744532a5" />
+<img width="300" alt="Screenshot 2026-09-30 172233" src="https://github.com/user-attachments/assets/d1c78632-ef0c-44d0-ae87-23b9744532a5" />
 
 *Gambar 4b. Kondisi kalah saat AI membuka sel berbom, biasanya setelah harus menebak. Sel bom yang diinjak ditandai merah dan bom lainnya ditampilkan.*
 
