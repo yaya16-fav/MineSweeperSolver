@@ -91,7 +91,7 @@ Catatan: font yang dipakai adalah Segoe UI / Segoe UI Emoji (tampilan paling pas
 
 ### 2. Jendela log AI
 
-<img width="540" height="736" alt="Screenshot 2026-09-30 172013" src="https://github.com/user-attachments/assets/947bf4df-084c-47dd-9e11-d7fb81328c6a" />
+<img width="300" alt="Screenshot 2026-09-30 172013" src="https://github.com/user-attachments/assets/947bf4df-084c-47dd-9e11-d7fb81328c6a" />
 
 *Gambar 2. Jendela log yang mencatat setiap langkah AI beserta alasannya. Tiap baris menunjukkan nomor langkah, aksi (OPEN atau FLAG), koordinat sel, jenis aturan yang dipakai, dan sel bernomor yang memicu aturan tersebut. Mode Manual (tombol Langkah Berikutnya) dan Mode Otomatis bisa dipilih dari jendela ini.*
 
