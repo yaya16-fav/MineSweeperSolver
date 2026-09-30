@@ -2,6 +2,7 @@
 Solver Minesweeper 6×6 berbasis **Knowledge-Based System** (aturan logika + forward chaining, tanpa machine learning), lengkap dengan GUI yang menampilkan alasan setiap langkah AI.
 
 Proyek Akhir Mata Kuliah Artificial Intelligence, DTETI Universitas Gadjah Mada.
+
 Tim: Nisa Faizatul Azkiya, Fadya Aviqa, Muhammad Arsya Gifary
 
 ## Ringkasan
