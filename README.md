@@ -6,7 +6,6 @@ Proyek Akhir Mata Kuliah Artificial Intelligence, DTETI Universitas Gadjah Mada.
 Anggota Tim: Nisa Faizatul Azkiya, Fadya Aviqa, Muhammad Arsya Gifary
 
 ## Ringkasan
-_
 Game Minesweeper dimainkan oleh AI yang menalar dari angka petunjuk di papan. Setiap langkah AI (buka sel / pasang _flag_) dicatat di _pop-up log_ beserta alasan logisnya, sehingga rantai inferensinya bisa ditelusuri.
 
 ## Fitur
