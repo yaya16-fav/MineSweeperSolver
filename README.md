@@ -84,7 +84,7 @@ Catatan: font yang dipakai adalah Segoe UI / Segoe UI Emoji (tampilan paling pas
 
 ### 1. Tampilan awal permainan
 
-<img width="627" height="657" alt="(Wǒ)Men-Sweeper" src="https://github.com/user-attachments/assets/92d036e7-1dd8-4f42-9695-e4911a3e9fc1" />
+<img width="300" alt="(Wǒ)Men-Sweeper" src="https://github.com/user-attachments/assets/92d036e7-1dd8-4f42-9695-e4911a3e9fc1" />
 
 *Gambar 1. Papan Minesweeper 6×6 dengan 6 bom sebelum ada sel yang dibuka. Tombol AI SOLVE dan penghitung bom ada di panel atas, sedangkan petunjuk klik kiri (buka sel) dan klik kanan (bendera) ada di bawah papan.*
 
